@@ -2,6 +2,18 @@
 
 ## Updating packages
 
+### Using the NPM GUI
+
+There is a GUI available that allows for managing the npm packages globally of locally. It can be run in memory using the following command"
+
+```bash
+npm npm-gui
+```
+
+**Resources**
+
+[npm-gui](https://www.npmjs.com/package/npm-gui)
+
 ### Updating to the latest
 
 ### Update to the newest
